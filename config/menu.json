@@ -1,0 +1,38 @@
+{
+  "main": [
+    {
+      "name": "The Band",
+      "url": "#theband"
+    },
+    {
+      "name": "Gallery",
+      "url": "#gallery"
+    },
+    {
+      "name": "Book Now",
+      "url": "#booknow"
+    },
+    {
+      "name": "Contact",
+      "url": "#footer"
+    }
+  ],
+  "footer": [
+    {
+      "name": "The Band",
+      "url": "/about"
+    },
+    {
+      "name": "Gallery",
+      "url": "/contact"
+    },
+    {
+      "name": "Book Now",
+      "url": "/elements"
+    },
+    {
+      "name": "Contact",
+      "url": "/privacy-policy"
+    }
+  ]
+}
